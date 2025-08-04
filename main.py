@@ -42,7 +42,7 @@ def show_menu():
 
 
 def main():
-    print("Welcome to Password Locker!")
+    print("Welcome to Password Manager!")
     print("----------------------------------")
     choice = 0
     while choice != 5:
